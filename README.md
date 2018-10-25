@@ -1,5 +1,5 @@
 # Learning Path - Machine Learning with TensorFlow and scikit-learn
-Develop and apply Machine Learning techniques using two of the most popular frameworks
+***Develop and apply Machine Learning techniques using two of the most popular frameworks***
 
 ## What You Will Learn:
 * Create a deep neural network using TensorFlow 
